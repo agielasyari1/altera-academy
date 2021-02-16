@@ -1,1 +1,1 @@
-Altera Challange
+Altera Challenge algoritma
